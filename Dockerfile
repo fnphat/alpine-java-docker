@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM fnphat/alpine:3.2
 
 # Install Java runtime environment
 RUN apk update && \
